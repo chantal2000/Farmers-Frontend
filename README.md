@@ -11,7 +11,7 @@ Installation
 
 You must have different tools in your development environment.
 1.you should have nodejs in your environment 
-2.clone the repo []
+2.clone the repo [https://github.com/chantal2000/Farmers-Frontend]
 
 Features
 1.Sign up and Login 
