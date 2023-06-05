@@ -16,5 +16,5 @@ You must have different tools in your development environment.
 Features
 1.Sign up and Login 
 2. On user side you can create an order. 
-3. 3. you can also pay the order you have placed 
-4. 4. as an admin you can get all orders and accept it or reject it.
+3. You can also pay the order you have placed 
+4. As an admin you can get all orders and accept it or reject it.
